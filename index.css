@@ -1,0 +1,21 @@
+.ti{
+    width: 1920px;
+    height: 50px;
+    background-color: darkred;
+    font-size: 30px;
+    text-align: center;
+    color: ghostwhite;
+    
+}
+.bb{
+    background-image:url(thumb-1920-814712.jpg);
+}
+.text{
+    width: 1280px;
+    margin: 0 auto;
+   background-color: white;
+    font-size: 25px;
+}
+body{
+    overflow-x:hidden;
+}
